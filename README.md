@@ -1,4 +1,9 @@
 # WireGuard-Allowed-IPs-Excluder
+
+## NodeJS
+see: https://github.com/hmenyus/node-calls-python
+
+## Usage Python
 Use the following form when you need to calculate complex AllowedIPs settings for a WireGuard peer, by subtracting the “disallowed” IP address blocks from the “allowed” IP address blocks.
 
 ```
